@@ -2,7 +2,7 @@
 
 This repository contains the CAD and production files for Robotont gen3.0.0 chassis.
 It also contains a Python script used for analysis of the mechanical properties of the design.
-Everything in this repository was developed for the Master's thesis "Design and Analysis of a 3D Printable Chassis for the Open Source Educational Robot Robotont" (in Estonian), available at [link will be added once available].
+Everything in this repository was developed for the Master's thesis "Design and Analysis of a 3D Printable Chassis for the Open Source Educational Robot Robotont" (in Estonian), available at https://comserv.cs.ut.ee/ati_thesis/datasheet.php?id=77385.
 
 ![Robotont gen3.0.0 chassis without and with extra devices](https://github.com/ut-ims-robotics/thesis-robotont-gen3.0.0-chassis/blob/main/images/chassis.png "Robotont gen3.0.0 chassis without and with extra devices")
 
